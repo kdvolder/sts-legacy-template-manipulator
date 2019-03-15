@@ -1,0 +1,14 @@
+<template>
+	<descriptor id="org.springframework.samples.batch.admin.web"
+		name="Spring Batch Admin Webapp"
+		kind="template"
+		category="Batch"
+		requiresbundle="org.eclipse.m2e.core"
+		version="2.3.3">
+		<description>
+			A WAR project for a Spring Batch Admin web application with simple custom job
+		</description>
+	</descriptor>
+	<project path="template.zip"/>
+	<json path="wizard.json"/>
+</template>
