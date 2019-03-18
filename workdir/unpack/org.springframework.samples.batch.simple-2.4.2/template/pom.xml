@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/maven-v4_0_0.xsd"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.springframework.samples.batch</groupId>
@@ -8,7 +8,7 @@
 	<version>2.0.0.CI-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>Command Line Spring Batch Module</name>
-	<url>http://www.springframework.org/spring-batch/archetypes/simple-cli-archetype</url>
+	<url>https://www.springframework.org/spring-batch/archetypes/simple-cli-archetype</url>
 	<description>
 		<![CDATA[
       This project is a minimal command line batch sample from Spring Batch.  
@@ -163,7 +163,7 @@
 	<pluginRepositories>
 		<pluginRepository>
 			<id>Codehaus</id>
-			<url>http://repository.codehaus.org/</url>
+			<url>https://repository.codehaus.org/</url>
 			<snapshots>
 				<enabled>false</enabled>
 			</snapshots>

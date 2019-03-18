@@ -1,1 +1,2 @@
-from-s3/*.zip
+/workdir/from-s3/*.zip
+target
