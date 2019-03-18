@@ -1,2 +1,3 @@
 /workdir/from-s3/*.zip
+/workdir/repack/*.zip
 target
